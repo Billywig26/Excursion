@@ -2,10 +2,14 @@
 body{
   background-color: black;
   text-align: center;
+  font-family: Verdana;
 }
 h1 {
-  font-color: white;
+  color: white;
   font-size: 50px;
-  font-family: Verdana;
   font-weight: normal;
+}
+h3 {
+  color: aquamarine;
+  font-size: 16px;
 }
